@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: [02.15.2025]
+Last updated: 19.02.2025
 
 ## Information We Collect
 
@@ -21,4 +21,4 @@ All voice recordings are stored locally on your device. We do not upload or shar
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at: [Email]
+If you have any questions about this Privacy Policy, please contact us at: mustafayildirimjs@gmail.com
