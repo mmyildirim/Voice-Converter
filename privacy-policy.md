@@ -16,7 +16,16 @@ All voice recordings are stored locally on your device. We do not upload or shar
 
 ## Permissions
 
+For Android 13 and above:
 - RECORD_AUDIO: Used only for voice recording functionality
+- READ_MEDIA_AUDIO: Used to access audio files on your device
+
+For Android 10-12:
+- RECORD_AUDIO: Used only for voice recording functionality
+
+For Android 9 and below:
+- RECORD_AUDIO: Used for voice recording functionality
+- READ_EXTERNAL_STORAGE: Used to access saved recordings
 - WRITE_EXTERNAL_STORAGE: Used to save recordings on your device
 
 ## Contact Us
